@@ -1,7 +1,9 @@
-pandas
-streamlit
-plotly
-python-dotenv
-altair
-bokeh
-requests
+streamlit==0.89.0
+pandas==1.0.1
+altair==4.1.0
+alpha_vantage==2.3.1 
+urllib==1.25.8
+requests==2.22.0
+python-dateutil==2.8.1
+numpy==1.18.1
+json5==0.9.1
